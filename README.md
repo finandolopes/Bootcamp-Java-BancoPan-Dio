@@ -132,40 +132,28 @@ e Swagger <a href=""><img src="./assets/btn_certificado.png" width="80"  align="
   <h2><b>8. </b>Dominando Algoritmos Intermediários com Desafios de Código Java</h2>
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/21d59a71-9a38-450f-ade5-8abb51194671.png" width="40px;"  align="left"/>
   <p>Desafio: Animal<br/>
-     Resolução:
+     Resolução:https://github.com/finandolopes/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/Desafio_1_animal.java
   </p>
   
    <img src="https://hermes.digitalinnovation.one/code_challenge/badge/b5854bd5-53b3-4eae-85bb-72f2f230689f.png" width="40px;"  align="left"/>
   <p>Desafio: Quintanda do Zé<br/>
-     Resolução:
+     Resolução:https://github.com/finandolopes/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/Desafio_2_quitanda.java
   </p>
   
    <img src="https://hermes.digitalinnovation.one/code_challenge/badge/a118d823-8724-411d-ab06-291d4a6b053b.png" width="40px;"  align="left"/>
   <p>Desafio: Triângulo<br/>
-     Resolução:
+     Resolução:https://github.com/finandolopes/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/Desafio_3_triangulo.java
   </p>
   
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/0792eb45-7dac-4685-b03c-bf4d225e121c.png" width="40px;"  align="left"/>
   <p>Desafio: Conta Espaço e Vogais<br/>
-     Resolução:
+     Resolução:https://github.com/finandolopes/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/Desafio_4_conta_espacos_e_vogais.java
   </p>
   
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/5219c176-a740-4d0b-9e09-d1a158fca709.png" width="40px;"  align="left"/>
   <p>Desafio: Taxa de Imposto de Renda<br/>
-     Resolução:
+     Resolução:https://github.com/finandolopes/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/Desafio_5_taxa_imposto.java
   </p>
-<h2>Mentorias e meus Artigos/Resumos</h2>
-
-<p><b>Pirâmide de Testes e TDD</b>
-- 
-
-
-<p><b>Solid e Boas práticas</b>
- 
- </p> 
-
-<p><b>Overview de Computação em Nuvem</b></p>
-<p><b>Engenharia de Confiabilidade de Site (SRE)</b></p>
 
 
 <footer>
