@@ -155,20 +155,6 @@ e Swagger <a href=""><img src="./assets/btn_certificado.png" width="80"  align="
      Resolução:
   </p>
 
-<h2>Mentorias e meus Artigos/Resumos</h2>
-
-<p><b>Pirâmide de Testes e TDD</b>
-- https://www.notion.so/Pir-mide-de-Teste-e-TDD-207892d0853d45fb9e5e5e3e10d78fdb</p>
-
-
-<p><b>Solid e Boas práticas</b>
- - https://www.notion.so/Solid-e-Boas-Pr-ticas-Resumo-59c01bb5aa6441eaade8e537d5e06767
- </p> 
-
-<p><b>Overview de Computação em Nuvem</b></p>
-<p><b>Engenharia de Confiabilidade de Site (SRE)</b></p>
-
-
 <footer>
 <h2></h2>
   <img src="https://cdn.cookielaw.org/logos/82b81c01-85cd-4ada-9c9d-656b3e5682dd/9be12e3b-5e10-436c-826d-d0dfc661f023/9c073e0c-345d-4dae-a9c4-b55a6c15e17f/banco-pan-logo-8.png" width="160px;" align="right" />
