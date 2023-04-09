@@ -154,7 +154,22 @@ e Swagger <a href=""><img src="./assets/btn_certificado.png" width="80"  align="
   <p>Desafio: Taxa de Imposto de Renda<br/>
      Resolução:
   </p>
+<h2>Mentorias e meus Artigos/Resumos</h2>
 
+<p><b>Pirâmide de Testes e TDD</b>
+- 
+
+
+<p><b>Solid e Boas práticas</b>
+ 
+ </p> 
+
+<p><b>Overview de Computação em Nuvem</b></p>
+<p><b>Engenharia de Confiabilidade de Site (SRE)</b></p>
+
+
+<footer>
+<h2></h2>
   <img src="https://cdn.cookielaw.org/logos/82b81c01-85cd-4ada-9c9d-656b3e5682dd/9be12e3b-5e10-436c-826d-d0dfc661f023/9c073e0c-345d-4dae-a9c4-b55a6c15e17f/banco-pan-logo-8.png" width="160px;" align="right" />
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" align="right" width="160px;"/>
   <p>https://web.dio.me/track/banco-pan-java-developer</p>
